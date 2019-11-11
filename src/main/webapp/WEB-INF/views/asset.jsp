@@ -86,7 +86,7 @@
 											<!-- display the update link --> <a href="${updateLink}"
 											class="btn btn-primary">Update</a> <a href="${deleteLink}"
 											class="btn btn-primary"
-											onclick="if (!(confirm('Are you sure you want to delete this user?'))) return false">Delete</a>
+											onclick="if (!(confirm('Are you sure you want to delete this asset?'))) return false">Delete</a>
 										</td>
 
 									</tr>
